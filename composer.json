@@ -1,0 +1,22 @@
+{
+    "name": "jdpowered/laravel-apns-http2-channel",
+    "description": "Laravel APNs notification channel using the new HTTP/2 api",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jonas Döbertin",
+            "email": "hello@jd-powered.net"
+        }
+    ],
+    "type": "library",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "stable"
+}
